@@ -18,3 +18,7 @@ https://hub.docker.com/repository/docker/kolchinvladimir/custom-nginx/general
 
 <img width="1035" height="1166" alt="Снимок экрана от 2025-08-11 17-30-03" src="https://github.com/user-attachments/assets/eeebd073-5475-4a43-93c0-d25354c67c60" />
 
+# Задача 5
+
+Будет запущен файл compose.yaml т.к. он предпочтительней файла docker-compose.yaml.  Файл docker-compose.yaml нужен для обеспечения обратной совместимости с более ранними версиями docker-compose.
+
