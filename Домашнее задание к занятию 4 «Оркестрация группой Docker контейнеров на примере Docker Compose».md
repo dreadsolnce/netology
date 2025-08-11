@@ -14,4 +14,7 @@ https://hub.docker.com/repository/docker/kolchinvladimir/custom-nginx/general
 
 <img width="1246" height="569" alt="Снимок экрана от 2025-08-11 17-03-22" src="https://github.com/user-attachments/assets/80364e58-b37b-4efc-ac4b-aef76a8581e0" />
 
+# Задача 4
+
+<img width="1035" height="1166" alt="Снимок экрана от 2025-08-11 17-30-03" src="https://github.com/user-attachments/assets/eeebd073-5475-4a43-93c0-d25354c67c60" />
 
