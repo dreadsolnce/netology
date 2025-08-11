@@ -12,5 +12,6 @@ https://hub.docker.com/repository/docker/kolchinvladimir/custom-nginx/general
 
 Через локальный порт хоста 8080 мы не можем получить доступ т.к. у нас он связан с портом 80 контейнера, а в контейнере у нас открыт 81 порт, а 80 нет.
 
+<img width="1246" height="569" alt="Снимок экрана от 2025-08-11 17-03-22" src="https://github.com/user-attachments/assets/80364e58-b37b-4efc-ac4b-aef76a8581e0" />
 
 
