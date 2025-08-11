@@ -22,3 +22,12 @@ https://hub.docker.com/repository/docker/kolchinvladimir/custom-nginx/general
 
 Будет запущен файл compose.yaml т.к. он предпочтительней файла docker-compose.yaml.  Файл docker-compose.yaml нужен для обеспечения обратной совместимости с более ранними версиями docker-compose.
 
+<img width="845" height="1062" alt="Снимок экрана от 2025-08-11 18-23-32" src="https://github.com/user-attachments/assets/de3bad91-86f2-4cc3-b568-7861049e039a" />
+
+Суть предупреждения: говорит, что обнаружены потерянные контейнеры. Если вы удалили службу (в нашем примере удалили файл compose.yaml - служба portainer) необходимо выполнить комманду docker compose up -d с флагом --remove-orphans чтобы очистить ее!
+
+<img width="1509" height="556" alt="Снимок экрана от 2025-08-11 18-32-44" src="https://github.com/user-attachments/assets/edf56c1e-debf-43dd-8874-5cee32bab0b7" />
+
+<img width="1509" height="397" alt="Снимок экрана от 2025-08-11 18-37-00" src="https://github.com/user-attachments/assets/ea544b09-a48c-4ca3-8329-c156e6904c44" />
+
+
