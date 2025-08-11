@@ -14,6 +14,7 @@ https://hub.docker.com/repository/docker/kolchinvladimir/custom-nginx/general
 
 <img width="1246" height="569" alt="Снимок экрана от 2025-08-11 17-03-22" src="https://github.com/user-attachments/assets/80364e58-b37b-4efc-ac4b-aef76a8581e0" />
 
+Замечание по задаче 3: т.к. образ nginx:1.21.1 основан на debian 10 (он снят с поддержки и соответственно не доступны репозитори), то apt update, apt-get install не работает и поэтому не возможно установить текстовый редактор. Я нашел и скачал отдельные пакеты vim в виде deb пакетов, добавил их в Dockerfile и их установку через мкенеджер пакетов dpkg. После чего я в контейнере уже смог изменить файл sources.list на путь [](http://archive.debian.org) а также изменить файл /etc/nginx/conf.d/default.conf. Ссылка на новый образ с установленным vim я также залил на docker hub c тегом 1.0.6: https://hub.docker.com/repository/docker/kolchinvladimir/custom-nginx/general
 # Задача 4
 
 <img width="1035" height="1166" alt="Снимок экрана от 2025-08-11 17-30-03" src="https://github.com/user-attachments/assets/eeebd073-5475-4a43-93c0-d25354c67c60" />
