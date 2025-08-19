@@ -7,4 +7,5 @@
 # Задание 1
 
 2. Допустимо хранить секретную информацию в файле: personal.auto.tfvars
-3. 
+3. "result": "jnOOKq5DKq12WKlk"
+4. 
