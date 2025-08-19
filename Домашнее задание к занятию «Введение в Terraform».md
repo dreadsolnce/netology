@@ -121,3 +121,18 @@ resource "docker_container" "mysql" {
   }
 }
 ```
+<hr>
+
+# Задание 3
+
+<img width="892" height="264" alt="Снимок экрана от 2025-08-19 18-24-09" src="https://github.com/user-attachments/assets/e26b6738-48bb-477d-bcbb-499b0e05d651" />
+
+<img width="856" height="217" alt="Снимок экрана от 2025-08-19 18-24-21" src="https://github.com/user-attachments/assets/ed9082ee-9d45-4d4f-8491-14ec5b5afd41" />
+
+<img width="1356" height="274" alt="Снимок экрана от 2025-08-19 18-24-45" src="https://github.com/user-attachments/assets/4ac0c89f-7b59-41b5-8153-dff2194c1175" />
+
+
+
+
+
+
