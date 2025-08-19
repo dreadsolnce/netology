@@ -50,5 +50,11 @@ cat terraform.tfstate
   "check_results": null
 ```
 
-8. 
+8. <br><b>Ответ: keep_locally = true</b> <br>
+Атрибут keep_locally в ресурсе Terraform docker_image определяет, будет ли образ Docker, управляемый этим ресурсом, удален с локального хоста Docker при уничтожении ресурса Terraform.
+Соответственно значение true атрибута keep_locally говорит нам, что образ nginx:latest останется на локальном хосте при уничтожении ресурсов с помощью terraform. Это может быть полезно
+если от данного образа зависят другие процессы. 
+
+Строка из документации:
+keep_locally (Boolean) If true, then the Docker image won't be deleted on destroy operation. If this is false, it will delete the image from the docker local storage on destroy operation.
  
