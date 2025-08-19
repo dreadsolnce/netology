@@ -58,3 +58,12 @@ cat terraform.tfstate
 Строка из документации:
 keep_locally (Boolean) If true, then the Docker image won't be deleted on destroy operation. If this is false, it will delete the image from the docker local storage on destroy operation.
  
+<hr>
+
+# Задание 2
+
+<img width="1336" height="65" alt="Снимок экрана от 2025-08-19 17-56-40" src="https://github.com/user-attachments/assets/d1fe87dc-cf74-4117-9451-554d51515c21" />
+
+<img width="896" height="309" alt="Снимок экрана от 2025-08-19 17-56-57" src="https://github.com/user-attachments/assets/c5d15716-72db-4ee1-acb9-1cd243ffc1c0" />
+
+[Ссылка на github](https://github.com/dreadsolnce/zad2)
