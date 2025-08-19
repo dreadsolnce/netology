@@ -1,35 +1,67 @@
-# Задача 1
-
-https://hub.docker.com/repository/docker/kolchinvladimir/custom-nginx/general
-
 # Задача 2
 
-<img width="1588" height="401" alt="Снимок экрана от 2025-08-11 13-11-15" src="https://github.com/user-attachments/assets/1d7636ea-29b6-4417-be87-17f77ae4e741" />
+<img width="1245" height="1101" alt="Screenshot_13" src="https://github.com/user-attachments/assets/745c5ff5-32b3-4b58-bd74-455ab92a1c89" />
 
 # Задача 3
 
-Потому что мы подключились к контейнеру (как бы к процессу docker-а на хостовой машине) к его потоком ввода вывода (как бы находимся внутри контейнера) и соответственно при нажатии комбинаций клавиш Ctrl + C мы прерываем именно процесс.
+<img width="1561" height="994" alt="Снимок экрана от 2025-08-18 12-12-35" src="https://github.com/user-attachments/assets/77ad396b-e38a-4996-9d94-7424675edc87" />
 
-Через локальный порт хоста 8080 мы не можем получить доступ т.к. у нас он связан с портом 80 контейнера, а в контейнере у нас открыт 81 порт, а 80 нет.
-
-<img width="1246" height="569" alt="Снимок экрана от 2025-08-11 17-03-22" src="https://github.com/user-attachments/assets/80364e58-b37b-4efc-ac4b-aef76a8581e0" />
-
-Замечание по задаче 3: т.к. образ nginx:1.21.1 основан на debian 10 (он снят с поддержки и соответственно не доступны репозитори), то apt update, apt-get install не работает и поэтому не возможно установить текстовый редактор. Я нашел и скачал отдельные пакеты vim в виде deb пакетов, добавил их в Dockerfile и их установку через мкенеджер пакетов dpkg. После чего я в контейнере уже смог изменить файл sources.list на путь [](http://archive.debian.org) а также изменить файл /etc/nginx/conf.d/default.conf. Ссылка на новый образ с установленным vim я также залил на docker hub c тегом 1.0.6: https://hub.docker.com/repository/docker/kolchinvladimir/custom-nginx/general
 # Задача 4
 
-<img width="1035" height="1166" alt="Снимок экрана от 2025-08-11 17-30-03" src="https://github.com/user-attachments/assets/eeebd073-5475-4a43-93c0-d25354c67c60" />
+<img width="1968" height="394" alt="Снимок экрана от 2025-08-18 12-59-20" src="https://github.com/user-attachments/assets/3d56cc9d-bd0d-4834-bfff-c5b231432b7a" />
+
+<img width="952" height="1063" alt="Снимок экрана от 2025-08-18 13-26-12" src="https://github.com/user-attachments/assets/41bdee3b-0b54-49ca-8beb-be534c9f708d" />
+
+Ссылка на fork: https://github.com/dreadsolnce/shvirtd-example-python
 
 # Задача 5
 
-Будет запущен файл compose.yaml т.к. он предпочтительней файла docker-compose.yaml.  Файл docker-compose.yaml нужен для обеспечения обратной совместимости с более ранними версиями docker-compose.
+***Скрипт backup.sh***
+```
+#!/bin/bash
 
-<img width="845" height="1062" alt="Снимок экрана от 2025-08-11 18-23-32" src="https://github.com/user-attachments/assets/de3bad91-86f2-4cc3-b568-7861049e039a" />
+MYSQL_ROOT_PASSWORD=$(cat /opt/project/.env | grep MYSQL_ROOT_PASSWORD | awk -F= '{print $2}')
+MYSQL_DATABASE=$(cat /opt/project/.env | grep  MYSQL_DATABASE| awk -F= '{print $2}')
 
-Суть предупреждения: говорит, что обнаружены потерянные контейнеры. Если вы удалили службу (в нашем примере удалили файл compose.yaml - служба portainer) необходимо выполнить комманду docker compose up -d с флагом --remove-orphans чтобы очистить ее!
+docker run --rm --env-file /opt/project/.env  --entrypoint "" -v /opt/backup:/backup --link=mysql:alias --network=project_backend my-mysqldump:latest mysqldump --opt -h alias -u root -p"${MYSQL_ROOT_PASSWORD}" "--result-file=/backup/dumps.sql_$(date +%F_%T)" ${MYSQL_DATABASE}
+```
 
-<img width="1509" height="556" alt="Снимок экрана от 2025-08-11 18-32-44" src="https://github.com/user-attachments/assets/edf56c1e-debf-43dd-8874-5cee32bab0b7" />
+***Cron-task:***
 
-<img width="1509" height="397" alt="Снимок экрана от 2025-08-11 18-37-00" src="https://github.com/user-attachments/assets/ea544b09-a48c-4ca3-8329-c156e6904c44" />
+```
+*/1 * * * * /opt/project/backup.sh
+```
+
+***Копии базы данных:***
+
+<img width="753" height="145" alt="Снимок экрана от 2025-08-18 14-51-32" src="https://github.com/user-attachments/assets/68e16dea-3806-4e81-a5ac-e8f84714c01d" />
+
+# Задача 6
+
+<img width="1181" height="427" alt="Снимок экрана от 2025-08-19 10-22-40" src="https://github.com/user-attachments/assets/62606b5d-acb7-41ac-841d-4f4d4c505034" />
+
+<img width="819" height="411" alt="Снимок экрана от 2025-08-19 10-23-54" src="https://github.com/user-attachments/assets/f3bd7e67-3b9f-4860-ae38-ede2848f9914" />
+
+<img width="1105" height="398" alt="Снимок экрана от 2025-08-19 10-25-52" src="https://github.com/user-attachments/assets/dae6ac9d-1af3-438c-a22c-2ae4cb520b5c" />
+
+<img width="809" height="485" alt="Снимок экрана от 2025-08-19 10-27-05" src="https://github.com/user-attachments/assets/6a3b76b6-56af-4f8e-a7c9-74d7dd3f1ec7" />
 
 
+# Задача 6.1
+
+<img width="1433" height="420" alt="Снимок экрана от 2025-08-19 10-34-54" src="https://github.com/user-attachments/assets/f0b6ccd9-052a-400e-b447-8e45c6b8e2f3" />
+
+# Задача 6.2
+
+<img width="1438" height="996" alt="Снимок экрана от 2025-08-19 10-39-43" src="https://github.com/user-attachments/assets/9a067602-8a43-4b01-8835-fa5acc981279" />
+
+<img width="1311" height="185" alt="Снимок экрана от 2025-08-19 10-40-34" src="https://github.com/user-attachments/assets/6fc4dce9-e37c-4d64-be7c-166088aa433c" />
+
+# Задача 7
+
+<img width="1015" height="231" alt="Снимок экрана от 2025-08-19 11-32-09" src="https://github.com/user-attachments/assets/90a65e47-5fb2-4ed8-9ed8-cac0491252bb" />
+
+<img width="634" height="237" alt="Снимок экрана от 2025-08-19 11-33-56" src="https://github.com/user-attachments/assets/aa9dcf94-67eb-4e1e-837f-ac8c7f8d3b0a" />
+
+<img width="348" height="66" alt="Снимок экрана от 2025-08-19 11-27-44" src="https://github.com/user-attachments/assets/994f608e-25d4-465a-8547-c5c6702ec018" />
 
