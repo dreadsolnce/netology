@@ -37,3 +37,18 @@ resource "docker_container" "nginx" {
 
    <img width="1320" height="113" alt="Снимок экрана от 2025-08-19 15-27-07" src="https://github.com/user-attachments/assets/9c5064f5-11e8-4529-bec8-095ab78166fa" />
 
+7.
+```
+cat terraform.tfstate
+{
+  "version": 4,
+  "terraform_version": "1.9.8",
+  "serial": 11,
+  "lineage": "8f6e94f8-3c4d-c47e-c1d1-ff3ede566ffb",
+  "outputs": {},
+  "resources": [],
+  "check_results": null
+```
+
+8. 
+ 
