@@ -21,6 +21,11 @@
 
 <img width="609" height="104" alt="Снимок экрана от 2025-08-22 14-26-24" src="https://github.com/user-attachments/assets/cc12e76c-6048-46ad-b6fa-dc219143e6ca" />
 
+# Задание 3
+
+<img width="1158" height="185" alt="Снимок экрана от 2025-08-22 16-02-15" src="https://github.com/user-attachments/assets/9b9882b0-6165-486b-9393-cfbb72817649" />
+
+
 
 
 
