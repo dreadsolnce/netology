@@ -25,7 +25,9 @@
 
 <img width="1158" height="185" alt="Снимок экрана от 2025-08-22 16-02-15" src="https://github.com/user-attachments/assets/9b9882b0-6165-486b-9393-cfbb72817649" />
 
+# Задание 4
 
+<img width="676" height="283" alt="Снимок экрана от 2025-08-23 12-05-28" src="https://github.com/user-attachments/assets/db82cd6b-9893-4372-88f5-8842eaab883a" />
 
 
 
