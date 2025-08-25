@@ -57,6 +57,11 @@
 
 <img width="622" height="480" alt="Снимок экрана от 2025-08-25 15-26-39" src="https://github.com/user-attachments/assets/63b2e52f-8abb-4807-9ce4-614adee9deb8" />
 
+# Задание 9
+
+<img width="802" height="840" alt="Снимок экрана от 2025-08-25 16-27-28" src="https://github.com/user-attachments/assets/2b72db75-1298-4b2e-ba4d-6887b915a44e" />
+
+
 
 
 
