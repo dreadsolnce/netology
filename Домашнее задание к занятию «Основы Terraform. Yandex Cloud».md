@@ -43,6 +43,20 @@
 
 <img width="875" height="142" alt="Снимок экрана от 2025-08-25 14-25-04" src="https://github.com/user-attachments/assets/d72f9465-4e16-4747-aed4-5e7d3164d522" />
 
+# Задание 7
+
+<img width="245" height="86" alt="Снимок экрана от 2025-08-25 14-34-17" src="https://github.com/user-attachments/assets/c32883d6-cffe-416f-8aa2-f6f3a075f1a7" />
+
+<img width="305" height="102" alt="Снимок экрана от 2025-08-25 14-35-39" src="https://github.com/user-attachments/assets/f3c3eaa0-1239-498e-8521-e14bd48e1dc7" />
+
+<img width="284" height="76" alt="Снимок экрана от 2025-08-25 14-36-59" src="https://github.com/user-attachments/assets/5ef39b94-c319-4897-a6f3-22de7aa18e8b" />
+
+<img width="2025" height="106" alt="Снимок экрана от 2025-08-25 15-07-25" src="https://github.com/user-attachments/assets/f86697e5-ede0-4f4f-9e11-90c9119a7146" />
+
+
+
+
+
 
 
 
