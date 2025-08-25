@@ -35,5 +35,14 @@
 
 <img width="631" height="127" alt="Снимок экрана от 2025-08-23 14-46-56" src="https://github.com/user-attachments/assets/b4ce1741-d4db-4291-9614-a74bb678ac02" />
 
+# Задание 6
+
+<img width="832" height="463" alt="Снимок экрана от 2025-08-25 14-23-58" src="https://github.com/user-attachments/assets/55ff4efe-fc93-4591-a2ed-0efba9bdbcfb" />
+
+<img width="520" height="357" alt="Снимок экрана от 2025-08-25 14-24-27" src="https://github.com/user-attachments/assets/53f3f2ef-83b9-4371-ba54-9bc06e06977a" />
+
+<img width="875" height="142" alt="Снимок экрана от 2025-08-25 14-25-04" src="https://github.com/user-attachments/assets/d72f9465-4e16-4747-aed4-5e7d3164d522" />
+
+
 
 
