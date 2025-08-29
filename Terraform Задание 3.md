@@ -9,4 +9,8 @@
 
 # Задание 3 и 4
 
+<img width="1638" height="516" alt="Снимок экрана от 2025-08-29 11-49-36" src="https://github.com/user-attachments/assets/9ee79b02-8b0d-4fd3-b6a9-5079ec764d44" />
+
+<img width="783" height="356" alt="Снимок экрана от 2025-08-29 11-49-10" src="https://github.com/user-attachments/assets/5d259c7a-0b2a-41ef-8716-9298445cf9a0" />
+
 
