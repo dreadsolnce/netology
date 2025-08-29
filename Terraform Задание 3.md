@@ -7,4 +7,6 @@
 
 <img width="1470" height="401" alt="Screenshot_22" src="https://github.com/user-attachments/assets/a65488ed-b885-477b-a798-ca671ae191e9" />
 
+# Задание 3 и 4
+
 
