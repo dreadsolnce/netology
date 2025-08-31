@@ -13,4 +13,7 @@
 
 <img width="783" height="356" alt="Снимок экрана от 2025-08-29 11-49-10" src="https://github.com/user-attachments/assets/5d259c7a-0b2a-41ef-8716-9298445cf9a0" />
 
+# Задание 5 *
+
+<img width="699" height="558" alt="Снимок экрана от 2025-08-31 12-59-13" src="https://github.com/user-attachments/assets/ac63ab63-1c7d-4b91-8265-061725f4e1e1" />
 
