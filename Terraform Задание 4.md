@@ -10,6 +10,9 @@
 
 <img width="537" height="1238" alt="Снимок экрана от 2025-09-02 20-00-39" src="https://github.com/user-attachments/assets/f35704fb-0932-46c7-ac33-9f6a945b2f09" />
 
+# Задание 2
+
+<img width="657" height="485" alt="Снимок экрана от 2025-09-04 08-43-19" src="https://github.com/user-attachments/assets/97dc67eb-5fbf-4110-be5c-b0abcf21568e" />
 
 
 
