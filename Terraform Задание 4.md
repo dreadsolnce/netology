@@ -16,6 +16,21 @@
 
 https://github.com/dreadsolnce/netology_courses/blob/main/terraform/dz4/src/vpc/README.md
 
+# Задание 3
+
+<img width="1134" height="563" alt="Снимок экрана от 2025-09-04 10-02-59" src="https://github.com/user-attachments/assets/58545434-89d3-4745-b616-3e8c622eb370" />
+
+<img width="1380" height="466" alt="Снимок экрана от 2025-09-04 10-25-37" src="https://github.com/user-attachments/assets/e1f226ca-0e53-4cef-b556-0192a336bc76" />
+
+
+<img width="1310" height="481" alt="Снимок экрана от 2025-09-04 10-27-05" src="https://github.com/user-attachments/assets/40025d7f-fb1d-4b02-8123-39592c591990" />
+
+<img width="1327" height="494" alt="Снимок экрана от 2025-09-04 10-28-02" src="https://github.com/user-attachments/assets/9deb13c4-25bf-4504-bffe-8e7a75b0932f" />
+
+<img width="1531" height="919" alt="Снимок экрана от 2025-09-04 10-28-57" src="https://github.com/user-attachments/assets/c73455e9-620d-46cf-9ca7-09003979fa37" />
+
+
+
 
 
 
