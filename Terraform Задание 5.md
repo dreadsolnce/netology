@@ -29,6 +29,10 @@ checkov:<br>
 
 <img width="1716" height="1325" alt="Снимок экрана от 2025-09-07 11-54-38" src="https://github.com/user-attachments/assets/894a6b3b-ae03-411c-a649-21b41e00124f" />
 
+# Задание 3
+
+https://github.com/dreadsolnce/netology_courses/pull/1#issue-3392838064
+
 
 
 
