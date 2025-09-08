@@ -33,6 +33,13 @@ checkov:<br>
 
 https://github.com/dreadsolnce/netology_courses/pull/1#issue-3392838064
 
+# Задание 4
+
+  ***пункт 1:***<br>
+  <img width="878" height="602" alt="Снимок экрана от 2025-09-08 10-09-48" src="https://github.com/user-attachments/assets/607fefea-6981-4c00-b088-8859a482eff1" />
+
+  <img width="909" height="604" alt="Снимок экрана от 2025-09-08 10-13-42" src="https://github.com/user-attachments/assets/9fa0bfe0-4258-4199-ba01-07469f6da0b5" />
+
 
 
 
