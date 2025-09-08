@@ -40,6 +40,16 @@ https://github.com/dreadsolnce/netology_courses/pull/1#issue-3392838064
 
   <img width="909" height="604" alt="Снимок экрана от 2025-09-08 10-13-42" src="https://github.com/user-attachments/assets/9fa0bfe0-4258-4199-ba01-07469f6da0b5" />
 
+***пункт 2:***<br>
+
+<img width="925" height="593" alt="Снимок экрана от 2025-09-08 13-24-10" src="https://github.com/user-attachments/assets/bd7382fd-fc62-473c-8610-522de71f60cc" />
+
+
+***пункт 3:***<br>
+
+<img width="893" height="758" alt="Снимок экрана от 2025-09-08 13-57-03" src="https://github.com/user-attachments/assets/2e26cb89-32f7-4c0c-b385-ab6d40494d14" />
+
+
 
 
 
