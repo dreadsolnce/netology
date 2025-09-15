@@ -8,4 +8,5 @@
 <img width="1117" height="106" alt="Снимок экрана от 2025-09-15 18-39-15" src="https://github.com/user-attachments/assets/dbe7bc5e-5d14-49c8-b39f-ee419df0af31" />
 
 
-4.
+4. ansible-playbook -i inventory/prod.yml asite.yml
+<img src="/srv/sftp/data/Screenshot_20250915_193204_Termux.jpg">
