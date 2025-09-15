@@ -1,5 +1,5 @@
 1. ansible-playbook -i inventory/test.yml site.yml 
-
+вставит картинку
 2.
 3.
 4.
