@@ -9,4 +9,5 @@
 
 
 4. ansible-playbook -i inventory/prod.yml asite.yml
-<img src="/srv/sftp/data/Screenshot_20250915_193204_Termux.jpg">
+
+![Screenshot_20250915_193204_Termux](https://github.com/user-attachments/assets/e476019d-21bf-4983-9842-199c4f2f74e0)
