@@ -11,3 +11,9 @@
 4. ansible-playbook -i inventory/prod.yml asite.yml
 
 ![Screenshot_20250915_193204_Termux](https://github.com/user-attachments/assets/e476019d-21bf-4983-9842-199c4f2f74e0)
+
+5. 6. ansible-playbook -i inventory/prod.yml site.yml
+
+![Screenshot_20250915_200707_Termux](https://github.com/user-attachments/assets/26818ffb-769d-4103-83c7-1ca94e7199b2)
+  
+7. 
