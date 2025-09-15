@@ -1,6 +1,5 @@
 1. ansible-playbook -i inventory/test.yml site.yml 
 
-
 2.
 3.
 4.
