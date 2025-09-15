@@ -16,4 +16,9 @@
 
 ![Screenshot_20250915_200707_Termux](https://github.com/user-attachments/assets/26818ffb-769d-4103-83c7-1ca94e7199b2)
   
-7. 
+7. ansible-vault encrypt group_vars/el/examp.yml
+
+![Screenshot_20250915_204112_Termux](https://github.com/user-attachments/assets/a4007829-cc80-4caf-a6f3-8f9f34b04173)
+
+
+
