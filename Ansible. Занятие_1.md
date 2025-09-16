@@ -44,8 +44,9 @@
 
 ##### Необязательная часть
 
-1. ansible-playbook decrypt group_vars/el/examp.yml
-   ansible-playbook decrypt group_vars/deb/examp.yml
+1. ansible-vault decrypt group_vars/el/examp.yml
+   ansible-vault decrypt group_vars/deb/examp.yml
 
+![Screenshot_20250916_085823_Termux](https://github.com/user-attachments/assets/cf129bf2-acfd-401a-a997-fc07e56ecca1)
 
 
