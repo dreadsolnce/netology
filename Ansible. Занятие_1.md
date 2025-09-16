@@ -49,4 +49,8 @@
 
 ![Screenshot_20250916_085823_Termux](https://github.com/user-attachments/assets/cf129bf2-acfd-401a-a997-fc07e56ecca1)
 
+2. ansible-vault encrypt_string
 
+![Screenshot_20250916_091550_Termux](https://github.com/user-attachments/assets/25625a6c-78a0-4886-be41-7f4128feb18f)
+
+3. 
