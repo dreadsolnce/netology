@@ -57,8 +57,13 @@
 
 ![Screenshot_20250916_092424_Termux](https://github.com/user-attachments/assets/8da38f5d-c721-4332-a441-54e71198eb5a)
 
-4. ansible-playbook -i inventory/prod.yml site.yml --ask-vault-pass
+4. ansible-playbook -i inventory/prod.yml site.yml --ask-vault-pass<br>
 
 <img width="1055" height="878" alt="Снимок экрана от 2025-09-16 10-27-06" src="https://github.com/user-attachments/assets/888df84e-2182-43c9-9064-b33a50df5886" />
 
-5. 
+5. ./start.sh
+
+<img width="823" height="1027" alt="Снимок экрана от 2025-09-16 10-32-46" src="https://github.com/user-attachments/assets/e8568e0f-a98f-4212-9a7a-78ee1be04db4" />
+
+<img width="591" height="1148" alt="Снимок экрана от 2025-09-16 10-33-01" src="https://github.com/user-attachments/assets/a8522f06-50ae-4fdf-b486-e02d331ee780" />
+
