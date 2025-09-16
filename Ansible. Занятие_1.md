@@ -20,5 +20,8 @@
 
 ![Screenshot_20250915_204112_Termux](https://github.com/user-attachments/assets/a4007829-cc80-4caf-a6f3-8f9f34b04173)
 
+8. ansible-playbook -i inventory/prod.yml site.yml --ask-vault-pass
 
+![Screenshot_20250916_075105_Termux](https://github.com/user-attachments/assets/27325bf8-322b-4939-9cb0-e2d8470858f6)
 
+9. 
