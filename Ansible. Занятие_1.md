@@ -42,4 +42,10 @@
 
 ![Screenshot_20250916_082755_Termux](https://github.com/user-attachments/assets/a0c004f2-4d5c-4bfc-a271-a12de9ff3dda)
 
-12. 
+##### Необязательная часть
+
+1. ansible-playbook decrypt group_vars/el/examp.yml
+   ansible-playbook decrypt group_vars/deb/examp.yml
+
+
+
