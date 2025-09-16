@@ -24,4 +24,14 @@
 
 ![Screenshot_20250916_075105_Termux](https://github.com/user-attachments/assets/27325bf8-322b-4939-9cb0-e2d8470858f6)
 
-9. 
+9. ansible-doc --list<br>
+   ansible-doc community.docker.current_container_facts<br>
+   site.yml<br>
+   
+![Screenshot_20250916_081423_Termux](https://github.com/user-attachments/assets/4215629c-c8ae-4234-90ad-f99d588e6f34)
+
+   ansible-playbook -i inventory/prod.yml site.yml --ask-vault-pass
+   
+![Screenshot_20250916_081548_Termux](https://github.com/user-attachments/assets/5e2d0113-d3ac-427b-9dd1-3f0ccb380d8a)
+
+11. 
