@@ -34,4 +34,8 @@
    
 ![Screenshot_20250916_081548_Termux](https://github.com/user-attachments/assets/5e2d0113-d3ac-427b-9dd1-3f0ccb380d8a)
 
+10. nano inventory/prod.yml
+
+![Screenshot_20250916_082453_Termux](https://github.com/user-attachments/assets/d67311ae-c399-4cbc-b050-8299fd3db21f)
+
 11. 
