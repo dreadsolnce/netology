@@ -10,4 +10,7 @@
 
 <img width="1010" height="178" alt="Screenshot_54" src="https://github.com/user-attachments/assets/8b82bc0f-9446-4f12-9c87-32dffc9a3134" />
 
+# Задание 3 4 5 6
+
+<img width="1152" height="163" alt="Screenshot_55" src="https://github.com/user-attachments/assets/7f26411b-0cff-4041-ba14-3608f48f89d4" />
 
