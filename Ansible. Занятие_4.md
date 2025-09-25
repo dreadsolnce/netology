@@ -6,7 +6,7 @@
 
 <img width="1173" height="173" alt="Screenshot_52" src="https://github.com/user-attachments/assets/8de23162-8321-41a9-8d73-05526c28e7df" />
 
-№ Задание 3
+# Задание 3
 
 <img width="1010" height="178" alt="Screenshot_54" src="https://github.com/user-attachments/assets/8b82bc0f-9446-4f12-9c87-32dffc9a3134" />
 
