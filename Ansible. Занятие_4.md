@@ -28,3 +28,12 @@
 
 <img width="598" height="572" alt="Screenshot_63" src="https://github.com/user-attachments/assets/5b9b5285-2bf7-42c8-b13d-2472adfdf3d8" />
 
+# Результат:
+
+<img width="765" height="437" alt="Screenshot_64" src="https://github.com/user-attachments/assets/8b19036e-a19c-4aa6-bfed-6f159ecb4290" />
+
+<img width="1207" height="136" alt="Screenshot_65" src="https://github.com/user-attachments/assets/612004d8-2449-4663-8d8b-3f0c35b0eb96" />
+
+<img width="1641" height="843" alt="Screenshot_66" src="https://github.com/user-attachments/assets/b901c320-84f0-4bea-ba6c-b48591aa2da9" />
+
+
