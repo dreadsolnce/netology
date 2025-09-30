@@ -34,7 +34,40 @@
 
 # Шаг 11
 
-<img width="1243" height="676" alt="Снимок экрана от 2025-09-30 13-06-00" src="https://github.com/user-attachments/assets/5bcb31b8-6033-4431-be9c-25011bb5c267" />
+<img width="1109" height="542" alt="Снимок экрана от 2025-09-30 14-58-55" src="https://github.com/user-attachments/assets/5cda4d7e-5556-4e10-ac73-d3f9509d4b26" />
+
+# Шаг 12
+
+<img width="1278" height="650" alt="Снимок экрана от 2025-09-30 14-59-59" src="https://github.com/user-attachments/assets/16b1cab1-49c9-4fe8-a805-60a12b6a3397" />
+
+<img width="1160" height="817" alt="Снимок экрана от 2025-09-30 15-00-15" src="https://github.com/user-attachments/assets/fcb3c4b0-b02d-4599-8151-0994c68c5687" />
+
+<img width="981" height="971" alt="Снимок экрана от 2025-09-30 15-23-15" src="https://github.com/user-attachments/assets/56be9efd-6b75-4022-8526-50749d8fd5da" />
+
+# Шаг 13
+
+<img width="952" height="298" alt="Снимок экрана от 2025-09-30 15-24-23" src="https://github.com/user-attachments/assets/4be5bcb2-5932-4fc1-b589-0e13e7532914" />
+
+# Шаг 14
+
+<img width="902" height="109" alt="Снимок экрана от 2025-09-30 15-25-41" src="https://github.com/user-attachments/assets/e5ca1219-fc2c-47c5-8b96-887b72e1a2f4" />
+
+# Шаг 15
+
+<img width="1276" height="175" alt="Снимок экрана от 2025-09-30 15-26-57" src="https://github.com/user-attachments/assets/8d7b86b9-0178-4d1b-9ce8-2760a5fb17c1" />
+
+# Шаг 16
+
+<img width="951" height="333" alt="Снимок экрана от 2025-09-30 15-36-51" src="https://github.com/user-attachments/assets/f1dfbc74-c44a-4e92-86b6-6150c98e17c4" />
+
+<img width="656" height="226" alt="Снимок экрана от 2025-09-30 15-37-03" src="https://github.com/user-attachments/assets/6d903980-0bdc-4f28-a2a7-6af0cef16015" />
+
+
+
+
+
+
+
 
 
 
