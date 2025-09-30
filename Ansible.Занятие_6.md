@@ -34,7 +34,7 @@
 
 # Шаг 11
 
-<img width="1109" height="542" alt="Снимок экрана от 2025-09-30 14-58-55" src="https://github.com/user-attachments/assets/5cda4d7e-5556-4e10-ac73-d3f9509d4b26" />
+<img width="795" height="263" alt="Снимок экрана от 2025-09-30 15-56-21" src="https://github.com/user-attachments/assets/555ef62d-f769-4f1c-aa41-e709a6b1a246" />
 
 # Шаг 12
 
