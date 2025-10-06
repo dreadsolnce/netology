@@ -1,6 +1,10 @@
 # Решение
 
+## 1. Настройка доски
+
 <img width="1165" height="608" alt="Снимок экрана от 2025-10-05 15-59-13" src="https://github.com/user-attachments/assets/c4763e55-221e-41de-a847-950e5482d378" />
+
+## 2. Создание задачи по Frontend
 
 <img width="311" height="259" alt="Снимок экрана от 2025-10-05 16-01-43" src="https://github.com/user-attachments/assets/11050c03-13df-49e8-af6e-c788cfb67d82" />
 
