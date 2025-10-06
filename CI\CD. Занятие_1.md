@@ -9,3 +9,6 @@
 <img width="865" height="297" alt="Снимок экрана от 2025-10-05 16-05-50" src="https://github.com/user-attachments/assets/1306ef09-d25c-4b1a-b756-587bae030bf0" />
 
 <img width="1221" height="494" alt="Снимок экрана от 2025-10-05 16-05-35" src="https://github.com/user-attachments/assets/15f44267-05f0-4fb0-a88d-32145686b78c" />
+
+<img width="961" height="489" alt="Screenshot_105" src="https://github.com/user-attachments/assets/28b8f0bf-4589-45c1-a2c0-d6d2369eacd1" />
+
