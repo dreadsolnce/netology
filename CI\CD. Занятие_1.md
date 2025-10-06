@@ -34,4 +34,6 @@
 
 <img width="361" height="529" alt="Screenshot_115" src="https://github.com/user-attachments/assets/2e9acc6e-4526-4d96-b459-fdfdf77b3d74" />
 
+<img width="335" height="540" alt="Screenshot_116" src="https://github.com/user-attachments/assets/fdfc0455-f2b3-4eb2-a690-4071b6d161a5" />
 
+<img width="645" height="359" alt="Screenshot_117" src="https://github.com/user-attachments/assets/19d5ffcf-29b9-456b-a42c-b68b3a413b02" />
