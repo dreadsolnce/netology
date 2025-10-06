@@ -46,4 +46,9 @@
 <br>
 <img width="329" height="568" alt="Screenshot_121" src="https://github.com/user-attachments/assets/30f923cd-7261-4346-9c3d-112d8e6dbf43" />
 
+## Финальная доска
+
+<img width="2510" height="763" alt="Screenshot_122" src="https://github.com/user-attachments/assets/859036c8-ce1e-43c4-a17c-cf11dbafb93c" />
+
+
 
