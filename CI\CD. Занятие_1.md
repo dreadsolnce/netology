@@ -24,3 +24,6 @@
 
 <img width="962" height="401" alt="Screenshot_111" src="https://github.com/user-attachments/assets/0c572e08-7e2f-4b83-9551-5b162261c363" />
 
+<img width="1837" height="688" alt="Screenshot_112" src="https://github.com/user-attachments/assets/90abddd2-88bf-41fa-a384-bd819d28b73b" />
+
+## 3. Создание задачи по Backend
