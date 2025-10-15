@@ -12,7 +12,5 @@
 
 # 4
 
-<img width="1195" height="508" alt="Снимок экрана от 2025-10-15 18-44-16" src="https://github.com/user-attachments/assets/49a6b560-9892-4626-8dfd-59b313494cac" />
-
-
+![Screenshot_20251015_191828_Samsung Internet](https://github.com/user-attachments/assets/a327a88e-0740-40f0-a01e-37319f8c3f69)
 
