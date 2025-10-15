@@ -18,4 +18,9 @@
 
 ![Screenshot_20251015_194910_Samsung Internet](https://github.com/user-attachments/assets/36ef2da9-7064-43cc-a231-8760b2a0f349)
 
+# 6
+
+
+![Screenshot_20251015_195855_Samsung Internet](https://github.com/user-attachments/assets/91317af4-0d81-42e3-a6fe-274edeb1d064)
+
 
