@@ -20,7 +20,10 @@
 
 # 6
 
-
 ![Screenshot_20251015_195855_Samsung Internet](https://github.com/user-attachments/assets/91317af4-0d81-42e3-a6fe-274edeb1d064)
 
+# 7
 
+![Screenshot_20251015_202246_Samsung Internet](https://github.com/user-attachments/assets/662d403c-a6b9-432d-9b38-aaf4bce778c8)
+
+![Screenshot_20251015_202501_Samsung Internet](https://github.com/user-attachments/assets/eb592c94-4560-4d1a-bf44-13ed0c676513)
