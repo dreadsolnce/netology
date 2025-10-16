@@ -62,6 +62,18 @@
 
 # 14
 
+<img width="1406" height="305" alt="Screenshot_150" src="https://github.com/user-attachments/assets/2c93a588-1a9c-4570-8ba5-c00176d6924d" />
+
+<img width="1051" height="318" alt="Screenshot_151" src="https://github.com/user-attachments/assets/b7fb6464-193a-445f-9a91-20dc637cd9d3" />
+
+<img width="1036" height="483" alt="Screenshot_152" src="https://github.com/user-attachments/assets/5cae2b05-3404-4faa-b688-3c9d973d2364" />
+
+<img width="1071" height="248" alt="Screenshot_153" src="https://github.com/user-attachments/assets/70ccd587-8e83-4321-9d66-d733b033e0ab" />
+
+# 15
+
+
+
 
 
 
