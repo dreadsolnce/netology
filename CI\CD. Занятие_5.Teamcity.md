@@ -36,3 +36,8 @@
 
 <img width="1094" height="293" alt="Screenshot_140" src="https://github.com/user-attachments/assets/4996c3ac-0065-48b5-992c-090d888479f9" />
 
+# 9
+
+<img width="801" height="629" alt="Screenshot_141" src="https://github.com/user-attachments/assets/34d5414f-a434-4034-9e1f-b31034f13109" />
+
+# 10
