@@ -27,3 +27,12 @@
 ![Screenshot_20251015_202246_Samsung Internet](https://github.com/user-attachments/assets/662d403c-a6b9-432d-9b38-aaf4bce778c8)
 
 ![Screenshot_20251015_202501_Samsung Internet](https://github.com/user-attachments/assets/eb592c94-4560-4d1a-bf44-13ed0c676513)
+
+#8 
+
+<img width="1316" height="530" alt="Screenshot_138" src="https://github.com/user-attachments/assets/c012c416-5333-43ba-a051-7681869bda35" />
+
+<img width="1057" height="650" alt="Screenshot_139" src="https://github.com/user-attachments/assets/268c1c40-0c5f-4a6f-a5cc-072922af3a69" />
+
+<img width="1094" height="293" alt="Screenshot_140" src="https://github.com/user-attachments/assets/4996c3ac-0065-48b5-992c-090d888479f9" />
+
