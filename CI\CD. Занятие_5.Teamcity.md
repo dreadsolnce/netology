@@ -54,7 +54,7 @@
 
 # 13
 
-<img width="1659" height="513" alt="Screenshot_145" src="https://github.com/user-attachments/assets/f141f093-b30c-47f5-b5b2-31002c45cd8e" />
+<img width="361" height="92" alt="Screenshot_148" src="https://github.com/user-attachments/assets/a3d9d83a-68b2-4764-b6af-fe32ad6a1b32" />
 
 <img width="573" height="123" alt="Screenshot_146" src="https://github.com/user-attachments/assets/0d6ca77a-0dca-4bc0-b781-733b34cd8609" />
 
