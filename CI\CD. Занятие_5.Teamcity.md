@@ -28,7 +28,7 @@
 
 ![Screenshot_20251015_202501_Samsung Internet](https://github.com/user-attachments/assets/eb592c94-4560-4d1a-bf44-13ed0c676513)
 
-#8 
+# 8 
 
 <img width="1316" height="530" alt="Screenshot_138" src="https://github.com/user-attachments/assets/c012c416-5333-43ba-a051-7681869bda35" />
 
