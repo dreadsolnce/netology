@@ -9,4 +9,7 @@
 
 ## 3.
 
+<img width="1062" height="362" alt="Снимок экрана от 2025-10-23 17-22-09" src="https://github.com/user-attachments/assets/e59a2319-1cde-44aa-a08c-e14d1e9c7791" />
+
+
 
