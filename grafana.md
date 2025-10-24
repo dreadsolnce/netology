@@ -13,15 +13,13 @@
 
 # Задание 2
 
-![Screenshot_20251023_192719_Samsung Internet](https://github.com/user-attachments/assets/fbaa9e65-56b6-4752-8efc-fb19f808178e)
+<img width="2527" height="1006" alt="Screenshot_176" src="https://github.com/user-attachments/assets/6846f60b-dc1a-4213-ba23-15e18262ba24" />
 
+<img width="751" height="335" alt="Screenshot_177" src="https://github.com/user-attachments/assets/8f8fbe92-3b0f-4799-ac65-a5d801a598ae" />
 
-![Screenshot_20251023_192750_Samsung Internet](https://github.com/user-attachments/assets/4f20a008-b7d6-46d5-9e4c-ded38b61e2a8)
+<img width="1029" height="596" alt="Screenshot_178" src="https://github.com/user-attachments/assets/cf28ab95-9b6b-434f-adff-f3dfbd4691ec" />
 
+<img width="903" height="461" alt="Screenshot_179" src="https://github.com/user-attachments/assets/8c2b5d12-90d6-45e0-aaa5-6cfefda2c6b0" />
 
-![Screenshot_20251023_192807_Samsung Internet](https://github.com/user-attachments/assets/0d8157af-04dc-45e4-99b2-1211e79abed3)
-
-![Screenshot_20251023_192826_Samsung Internet](https://github.com/user-attachments/assets/0265d48b-06b7-4469-8ad4-27290c213bc1)
-
-![Screenshot_20251023_192840_Samsung Internet](https://github.com/user-attachments/assets/970d6605-d96f-4fea-84f7-4fcdfdcde849)
+<img width="780" height="349" alt="Screenshot_180" src="https://github.com/user-attachments/assets/5909ad3c-e2dd-45c1-90b3-7a8e4fabb553" />
 
