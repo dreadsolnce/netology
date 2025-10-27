@@ -7,3 +7,4 @@
 # Задание 2
 
 
+![Screenshot_20251027_203654_Samsung Internet](https://github.com/user-attachments/assets/d9419f3e-a643-4122-afdd-dd6445a21c0b)
