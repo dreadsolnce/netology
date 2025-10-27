@@ -8,3 +8,5 @@
 
 
 ![Screenshot_20251027_203654_Samsung Internet](https://github.com/user-attachments/assets/d9419f3e-a643-4122-afdd-dd6445a21c0b)
+
+![Screenshot_20251027_204317_Samsung Internet](https://github.com/user-attachments/assets/87593cbf-243c-46a7-926f-2e3fcdbd5189)
