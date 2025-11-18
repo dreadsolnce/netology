@@ -1,0 +1,6 @@
+Среди популярных решений для реализации API Gateway можно выделить:
+Kong — производительный Gateway на базе NGINX с открытым исходным кодом,
+Spring Cloud Gateway — часть экосистемы Spring Cloud для Java-приложений,
+Amazon API Gateway — полностью управляемый сервис от AWS,
+Azure API Management — аналогичное решение от Microsoft,
+Express Gateway — легковесное решение на Node.js.
