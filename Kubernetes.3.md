@@ -82,7 +82,38 @@ kubectl exec -it pod-multitool -- bash
 # Задание 2
 ___
 
+```
+cat deployment-web-nginx-busybox.yaml
+```
 
+<img width="1588" height="582" alt="Снимок экрана от 2025-12-10 17-00-03" src="https://github.com/user-attachments/assets/b4559c88-48c6-459a-8417-d3f23b48b86b" />
+
+```
+cat service-web-nginx-busybox.yaml 
+
+```
+
+<img width="657" height="276" alt="Снимок экрана от 2025-12-10 17-00-23" src="https://github.com/user-attachments/assets/f8829098-05d3-4592-95fd-5089593ba520" />
+
+```
+kubectl get pods
+```
+```
+kubectl get services
+```
+```
+kubectl get deployments.apps
+```
+```
+kubectl get pods
+```
+```
+kubectl apply -f service-web-nginx-busybox.yaml
+```
+```
+kubectl get pods
+```
+<img width="857" height="434" alt="Снимок экрана от 2025-12-10 16-59-14" src="https://github.com/user-attachments/assets/01b4291c-cbbe-45a1-8d0e-efeb6c3a8129" />
 
 
 
