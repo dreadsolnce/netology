@@ -16,3 +16,5 @@ p.s. сайт доступен по доменного имени разверн
 ![Screenshot_20251218_203508_Termux](https://github.com/user-attachments/assets/0d172cf7-8a4e-4de8-92f6-26f54b7c94e0)
 
 ![Screenshot_20251218_203554_Termux](https://github.com/user-attachments/assets/4f282d07-6b87-44cc-ac8d-eac3d274e8fe)
+
+p.s. Прошу прощения за не очень хорошее оформление доделываю в электричке с планшета. Ну я думаю из скриншотов все понятно
