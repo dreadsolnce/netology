@@ -1,0 +1,14 @@
+Задание 1 2
+![Screenshot_20251218_202814_Samsung Internet](https://github.com/user-attachments/assets/03cca236-39bb-4644-8fa8-7becfb41a11f)
+
+![Screenshot_20251218_202826_Samsung Internet](https://github.com/user-attachments/assets/c41d78e8-4b65-4571-a5e7-de95b99923be)
+
+![Screenshot_20251218_202842_Samsung Internet](https://github.com/user-attachments/assets/7bdb06cf-4339-47b3-b797-679d5bddc681)
+
+![Screenshot_20251218_202848_Samsung Internet](https://github.com/user-attachments/assets/bffd2f6b-8ac1-4cc9-aec9-220d1482f082)
+
+p.s. сайт доступен по доменного имени развернут в облаке yandex
+
+Задание 3
+
+![Screenshot_20251218_203234_Termux](https://github.com/user-attachments/assets/9a96b428-60dd-4abd-848a-d7925723b937)
