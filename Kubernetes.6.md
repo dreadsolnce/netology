@@ -12,3 +12,7 @@ p.s. сайт доступен по доменного имени разверн
 Задание 3
 
 ![Screenshot_20251218_203234_Termux](https://github.com/user-attachments/assets/9a96b428-60dd-4abd-848a-d7925723b937)
+
+![Screenshot_20251218_203508_Termux](https://github.com/user-attachments/assets/0d172cf7-8a4e-4de8-92f6-26f54b7c94e0)
+
+![Screenshot_20251218_203554_Termux](https://github.com/user-attachments/assets/4f282d07-6b87-44cc-ac8d-eac3d274e8fe)
