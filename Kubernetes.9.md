@@ -49,14 +49,19 @@ sudo apt update && sudo apt install -y containerd
 ***Настройка containerd:***
 
 - **Создаем директорию для конфига**
+```
 sudo mkdir -p /etc/containerd
+```
 
 - **Генерируем конфиг по умолчанию и сохраняем**
+```
 sudo containerd config default | sudo tee /etc/containerd/config.toml
+```
 
 - **Критически важный шаг:** *Меняем Cgroup Driver на "systemd", как рекомендует Kubernetes*.
-
+```
 sudo sed -i 's/SystemdCgroup = false/SystemdCgroup = true/' /etc/containerd/config.toml
+```
 
 ```
 sudo systemctl restart containerd.service
