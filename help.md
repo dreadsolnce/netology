@@ -1,3 +1,30 @@
+## Дополнительные задания (со звёздочкой)
+
+### Задание 2*. Установить HA кластер
+
+___
+**Домашнее исправление**
+**Создал новый кластер с ip load balancer**
+```
+sudo kubeadm init --apiserver-advertise-address=10.128.0.111 --pod-network-cidr 10.244.0.0/16 --apiserver-cert-extra-sans=158.160.93.162 --control-plane-endpoint=130.193.57.207 --upload-certs
+```
+
+**На второй control ноде подключился к кластеру**
+
+```
+kubeadm join 130.193.57.207:6443 --token 5cu72l.svjz9epkqop0il1c \
+	--discovery-token-ca-cert-hash sha256:4a36bf1abedc889e6c66490169751918eea439d7674f97f60df6385ec509664e \
+	--control-plane --certificate-key 873372a467c6aec54eab98b3bbf578c146b7686f7ea60f0dcb594889a227eb59
+```
+
+**На worker ноде подключился к кластеру**
+
+```
+kubeadm join 130.193.57.207:6443 --token 5cu72l.svjz9epkqop0il1c \
+	--discovery-token-ca-cert-hash sha256:4a36bf1abedc889e6c66490169751918eea439d7674f97f60df6385ec509664e 
+```
+
+ 
  Отличная задача! Настройка Kubernetes в режиме High Availability (HA) — это правильный подход для production-окружений. Мы будем использовать kubeadm для создания кластера с несколькими master-узлами (stacked control plane) и keepalived для организации виртуального IP-адреса (VIP), который будет служить единой
   точкой входа для API-сервера.
 
