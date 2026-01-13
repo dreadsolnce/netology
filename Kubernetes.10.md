@@ -51,7 +51,7 @@ sudo systemctl enable --now rke2-server.service
 ```
 
 
-> [!NOTE] 
+> [!IMPORTANT]
 > Запуск RKE2 в среднем занимает около 5 минут.
 
 > [!tip] Проверка статуса
