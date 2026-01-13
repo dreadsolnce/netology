@@ -325,3 +325,32 @@ kubectl -n app get pods -o wide
 ```
 
 <img width="972" height="184" alt="Снимок экрана от 2026-01-13 16-05-34" src="https://github.com/user-attachments/assets/1029359e-5d7d-4597-a1b0-d5a0640a4a45" />
+
+
+```
+kubectl -n app get networkpolicies.networking.k8s.io -o wide
+```
+
+<img width="618" height="119" alt="Снимок экрана от 2026-01-13 16-06-22" src="https://github.com/user-attachments/assets/62dd854e-a6f5-4a80-9084-bd0792de64b8" />
+
+
+```
+kubectl -n app exec -it deployments/frontend -- bash
+```
+
+<img width="679" height="152" alt="Снимок экрана от 2026-01-13 16-08-34" src="https://github.com/user-attachments/assets/5563f956-2a33-4805-85fe-e72924427b5d" />
+
+
+```
+kubectl -n app exec -it deployments/backend -- bash
+```
+
+<img width="669" height="152" alt="Снимок экрана от 2026-01-13 16-09-52" src="https://github.com/user-attachments/assets/1754fa45-3670-4403-a295-6ebb103b2ade" />
+
+
+```
+kubectl -n app exec -it deployments/cache -- bash
+```
+
+<img width="535" height="151" alt="Снимок экрана от 2026-01-13 16-11-07" src="https://github.com/user-attachments/assets/3e258c23-5f42-44f0-b46b-1d68541bf6a3" />
+
