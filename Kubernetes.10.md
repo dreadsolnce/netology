@@ -54,7 +54,7 @@ sudo systemctl enable --now rke2-server.service
 > [!IMPORTANT]
 > Запуск RKE2 в среднем занимает около 5 минут.
 
-> [!tip] Проверка статуса
+> [!TIP] Проверка статуса
 >  - Проверить статус RKE2 можно с помощью следующих команд:
 >  `journalctl -u rke2-server -f`  
    `kubectl cluster-info`
