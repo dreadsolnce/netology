@@ -117,3 +117,52 @@ kubectl label nodes wn node-role.kubernetes.io/worker=true
 kubectl get nodes
 ```
 
+<img width="521" height="114" alt="Снимок экрана от 2026-01-13 12-15-22" src="https://github.com/user-attachments/assets/11eb68b9-6975-496d-a022-e8b8ba43423d" />
+
+## Задание 1. Создать сетевую политику или несколько политик для обеспечения доступа
+
+1. **Создать deployment'ы приложений frontend, backend и cache и соответсвующие сервисы.**
+
+***fronend:***
+
+```
+cat <<EOF >>deploy-frontend.yml
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: frontend
+  labels:
+    app: label-front 
+  namespace: app                     
+spec:
+  replicas: 2 # Колличество подов 
+  selector:
+    matchLabels:
+      app: label-front
+  template:
+    metadata:
+      labels:
+        app: label-front
+    spec:
+      containers:
+        - name: multitool
+          image: praqma/network-multitool:alpine-extra
+          ports:
+            - containerPort: 80
+              name: port
+
+EOF
+```
+
+```
+kubectl apply -f deploy-frontend.yml
+```
+
+```
+kubectl -n app get deployments.apps frontend -o wide
+```
+
+<img width="972" height="96" alt="Снимок экрана от 2026-01-13 12-17-36 1" src="https://github.com/user-attachments/assets/579490dc-68db-4861-a1aa-bffcbf5f866f" />
+
+
