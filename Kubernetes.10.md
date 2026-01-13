@@ -166,3 +166,162 @@ kubectl -n app get deployments.apps frontend -o wide
 <img width="972" height="96" alt="Снимок экрана от 2026-01-13 12-17-36 1" src="https://github.com/user-attachments/assets/579490dc-68db-4861-a1aa-bffcbf5f866f" />
 
 
+```
+kubectl -n app get pods -o wide
+```
+
+<img width="969" height="79" alt="Снимок экрана от 2026-01-13 12-18-46" src="https://github.com/user-attachments/assets/28cd2a4f-59e5-4795-b114-fa8b632b883d" />
+
+
+```
+cat <<EOF >>service-frontend.yml
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: service-frontend
+  namespace: app
+spec:
+  selector:
+    app: label-front
+  ports:
+  - name: web-port-80
+    protocol: TCP
+    port: 80
+    targetPort: port
+
+EOF
+```
+
+```
+kubectl apply -f service-frontend.yml
+```
+
+```
+kubectl -n app get services service-frontend -o wide
+```
+
+<img width="716" height="63" alt="Снимок экрана от 2026-01-13 12-07-44" src="https://github.com/user-attachments/assets/0ecf3334-3c60-4cc9-9649-b7d43bb36648" />
+
+
+```
+curl http://10.43.18.202
+```
+
+<img width="680" height="79" alt="Снимок экрана от 2026-01-13 12-20-28" src="https://github.com/user-attachments/assets/e7a9671d-54df-4d22-bfd6-c57d0625c379" />
+
+
+***backend и cache:***
+
+
+> [!NOTE]
+> По аналогии создаем deployment и service для backend и cache
+
+2. 
+3. **Разместить поды в namespace app.**
+```
+cat <<EOF >>namespace.yml
+
+apiVersion: v1
+kind: Namespace
+metadata:
+  name:  app     # Имя вашего нового пространства имен
+  labels:
+    app: deploy
+
+EOF
+```
+
+```
+kubectl apply -f namespace.yml
+```
+
+```
+kubectl get namespaces app -o wide
+```
+
+<img width="395" height="75" alt="Снимок экрана от 2026-01-13 11-33-26" src="https://github.com/user-attachments/assets/d0d810de-5bed-473c-96e8-2bcb590b95f7" />
+
+
+4. **Создать политики, чтобы обеспечить доступ frontend -> backend -> cache. Другие виды подключений должны быть запрещены.**
+
+```
+cat <<EOF >>policy-deny.yml
+
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata: 
+  name: policy-deny
+  namespace: app
+spec:
+  podSelector: {}
+  policyTypes:
+    - Ingress
+
+```
+
+```
+cat <<EOF >>policy-allow-backend.yml 
+
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata: 
+  name: policy-back
+  namespace: app
+spec:
+  podSelector: 
+    matchLabels:
+      app: label-back
+  policyTypes:
+    - Ingress
+  ingress:
+    - from:
+      - podSelector:
+          matchLabels:
+            app: label-front
+
+```
+
+```
+cat <<EOF >>policy-allow-cache.yml 
+
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata: 
+  name: policy-cache
+  namespace: app
+spec:
+  podSelector: 
+    matchLabels:
+      app: label-cache
+  policyTypes:
+    - Ingress
+  ingress:
+    - from:
+      - podSelector:
+          matchLabels:
+            app: label-back
+
+```
+
+5. **Продемонстрировать, что трафик разрешён и запрещён.**
+
+```
+kubectl -n app get deployments.apps -o wide
+```
+
+<img width="992" height="120" alt="Снимок экрана от 2026-01-13 16-00-16" src="https://github.com/user-attachments/assets/a23365e3-eecd-4f30-bc68-7cc02eec05c7" />
+
+
+```
+kubectl -n app get services -o wide
+```
+
+<img width="777" height="121" alt="Снимок экрана от 2026-01-13 16-03-22" src="https://github.com/user-attachments/assets/83e9d8fd-b4ae-4fec-888d-ac2ce76cbae5" />
+
+
+```
+kubectl -n app get pods -o wide
+```
+
+<img width="972" height="184" alt="Снимок экрана от 2026-01-13 16-05-34" src="https://github.com/user-attachments/assets/1029359e-5d7d-4597-a1b0-d5a0640a4a45" />
