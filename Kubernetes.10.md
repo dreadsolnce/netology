@@ -2,7 +2,7 @@
 ### Установка RKE2 (Rancher Kubernetes Engine)
 
 !!! note "Заголовок заметки"
-RKE2 (Rancher Kubernetes Engine) — это дистрибутив Kubernetes, поставляемый и запускаемый целиком в виде контейнерного приложения (Docker). Использование RKE позволяет избежать сложностей, связанных с установкой и первоначальной настройкой Kubernetes.
+    RKE2 (Rancher Kubernetes Engine) — это дистрибутив Kubernetes, поставляемый и запускаемый целиком в виде контейнерного приложения (Docker). Использование RKE позволяет избежать сложностей, связанных с установкой и первоначальной настройкой Kubernetes.
 
 [Ссылка на сайт с инструкцией](https://clo.ru/help/containerization/installation/rke2)
 
