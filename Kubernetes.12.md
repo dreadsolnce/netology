@@ -71,7 +71,7 @@ cat task.yml
 <img width="397" height="129" alt="Снимок экрана от 2026-01-19 10-43-26" src="https://github.com/user-attachments/assets/44067674-a917-4990-85f8-9be18478282f" />
 
 
-*** Ищем image на Docker Hub и находим его. Соответственно проблема не в названии образа. ***
+***Ищем image на Docker Hub и находим его. Соответственно проблема не в названии образа.***
 
 <img width="800" height="120" alt="Снимок экрана от 2026-01-19 10-44-59" src="https://github.com/user-attachments/assets/b2e17e53-6719-4935-8fad-edc557661e9d" />
 
