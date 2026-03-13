@@ -51,6 +51,19 @@ ___
 
 <img width="1559" height="714" alt="Снимок экрана от 2026-03-13 16-09-29" src="https://github.com/user-attachments/assets/194784a3-7577-4f58-8f6e-d0d376dc7c63" />
 
+### Тестирование работы atlantis
+
+Добавим в конфигурацию проекта terraform создание тестовой сети и деплой ее с помощью создания pull request
+
+<img width="844" height="486" alt="Снимок экрана от 2026-03-13 16-17-52" src="https://github.com/user-attachments/assets/424d715c-6f3f-4007-9768-112426e34022" />
+
+<img width="1048" height="708" alt="Снимок экрана от 2026-03-13 16-18-52" src="https://github.com/user-attachments/assets/3a5a6e68-1a26-4d34-8255-6bd3ecf55a85" />
+
+<img width="1102" height="423" alt="Снимок экрана от 2026-03-13 16-19-30" src="https://github.com/user-attachments/assets/408e5116-ba42-4752-819b-a6738f2e48a8" />
+
+<img width="1040" height="733" alt="Снимок экрана от 2026-03-13 16-20-09" src="https://github.com/user-attachments/assets/924b0881-0275-45b4-82b6-27d7497c9eab" />
+
+<img width="1480" height="720" alt="Снимок экрана от 2026-03-13 16-20-16" src="https://github.com/user-attachments/assets/083e6cb2-3715-493f-afb4-47568499cd48" />
 
 
 
