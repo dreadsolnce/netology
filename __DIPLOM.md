@@ -25,12 +25,23 @@ ___
 
 ## В результате выполнения команды будут созданы следующие ресурсы:
 
-<img width="838" height="294" alt="Снимок экрана от 2026-03-13 15-55-16" src="https://github.com/user-attachments/assets/e33ddb48-7b43-4362-b9e5-c0b00af0d88a" />
+<img width="1536" height="298" alt="Снимок экрана от 2026-03-13 16-03-45" src="https://github.com/user-attachments/assets/47ccf846-c0fd-4bdb-bd61-19e603154376" />
 
 #### 1. Вирутальная машнина бастион с публичныи айпи адресом и установленным nginx для проксирования трафика на внутренние vm 
 #### 2. Развернут кластер k8s на трех мастер нодах (3-ех VM) без внешнего ip с возможностью размещения на них подов.
 **Примечание:** Данный шаг обусловлен только экономией ресурсов
 В клпастере выполнен деплой следующих приложений: тестовое приложение с базой данных mysql, prometheus + grafana, а также atlantis.
+Все приложения доступны по доменному имени и протоколу https
 
-## 
+## Проверка работы grafana: 
+
+<img width="1465" height="926" alt="Снимок экрана от 2026-03-13 16-05-14" src="https://github.com/user-attachments/assets/1cc12730-c33e-4b79-8bbb-306fc5a7af0e" />
+
+<img width="2331" height="1069" alt="Снимок экрана от 2026-03-13 16-06-34" src="https://github.com/user-attachments/assets/935139e5-1a05-4b1a-bae9-a9f6fd3b6f1d" />
+
+<img width="2308" height="1204" alt="Снимок экрана от 2026-03-13 16-06-57" src="https://github.com/user-attachments/assets/eaa841a2-69d4-4a5f-b8d8-78ca80fb340c" />
+
+<img width="2293" height="1306" alt="Снимок экрана от 2026-03-13 16-07-17" src="https://github.com/user-attachments/assets/9dd35d0d-5bd5-4ab0-b795-3c025ac03c85" />
+
+
 
