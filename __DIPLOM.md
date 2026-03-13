@@ -118,9 +118,15 @@ YC_REGISTRY_ID - соответствует yandex registry
 
 <img width="906" height="100" alt="Снимок экрана от 2026-03-13 17-31-12" src="https://github.com/user-attachments/assets/3a1b4f9b-c37d-475d-a934-f51efa7eeaed" />
 
+проверка работы если не указать тег
 
+<img width="952" height="205" alt="Снимок экрана от 2026-03-13 17-32-10" src="https://github.com/user-attachments/assets/ea6463dc-fbfc-4089-99f8-53375d56e770" />
 
+<img width="1103" height="545" alt="Снимок экрана от 2026-03-13 17-32-49" src="https://github.com/user-attachments/assets/e6f0a7b0-3957-42c7-b311-1eb2de0f9ecb" />
 
+<img width="645" height="386" alt="Снимок экрана от 2026-03-13 17-33-05" src="https://github.com/user-attachments/assets/0364748e-59b2-408d-a926-ce8a19e35066" />
+
+<img width="1052" height="202" alt="Снимок экрана от 2026-03-13 17-33-13" src="https://github.com/user-attachments/assets/fbd7e961-c5e4-4416-bf2c-a124c791dcaf" />
 
 
 
