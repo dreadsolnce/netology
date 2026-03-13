@@ -43,5 +43,52 @@ ___
 
 <img width="2293" height="1306" alt="Снимок экрана от 2026-03-13 16-07-17" src="https://github.com/user-attachments/assets/9dd35d0d-5bd5-4ab0-b795-3c025ac03c85" />
 
+## Проверка работы тестового приложения
+
+<img width="2227" height="1240" alt="Снимок экрана от 2026-03-13 16-08-45" src="https://github.com/user-attachments/assets/99b46bd4-ef7a-4b29-9980-0b2f0f4df3ba" />
+
+## Проверка работы atlantis
+
+<img width="1559" height="714" alt="Снимок экрана от 2026-03-13 16-09-29" src="https://github.com/user-attachments/assets/194784a3-7577-4f58-8f6e-d0d376dc7c63" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
