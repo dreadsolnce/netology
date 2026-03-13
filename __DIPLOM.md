@@ -34,7 +34,7 @@ ___
 
 Все приложения доступны по доменному имени и протоколу https
 
-ssh-keygen -f '/home/kvl/.ssh/known_hosts' -R '93.77.185.127'
+<img width="1120" height="1176" alt="Снимок экрана от 2026-03-13 16-29-51" src="https://github.com/user-attachments/assets/4f8d2404-9bd3-4784-b002-0e4c002d5eb8" />
 
 ## Проверка работы grafana: 
 
