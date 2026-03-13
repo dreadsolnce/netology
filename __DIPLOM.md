@@ -71,7 +71,9 @@ ___
 
 <img width="1041" height="709" alt="Снимок экрана от 2026-03-13 16-23-53" src="https://github.com/user-attachments/assets/b3434e58-26d0-4ccf-bd1e-7b60e76d16b5" />
 
+<img width="1008" height="328" alt="Снимок экрана от 2026-03-13 16-25-08" src="https://github.com/user-attachments/assets/7d2f407f-a8b1-49f6-a340-ee8a472bc06a" />
 
+<img width="1055" height="692" alt="Снимок экрана от 2026-03-13 16-26-21" src="https://github.com/user-attachments/assets/35177540-1049-475a-b46f-19f8e69640f6" />
 
 
 
