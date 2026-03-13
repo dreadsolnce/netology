@@ -82,11 +82,39 @@ ___
 
 #### Для выполнения данного примера будем использовать git lab
 
+Для успешного выполнения pipeline необходимо прописать в ci/cd gitlab переменные:
 
+YC_REGISTRY_ID - соответствует yandex registry
 
+<img width="976" height="177" alt="Снимок экрана от 2026-03-13 17-22-37" src="https://github.com/user-attachments/assets/639be47a-9d38-4db6-aeb3-863908990c40" />
 
+<img width="1257" height="230" alt="Снимок экрана от 2026-03-13 17-20-14" src="https://github.com/user-attachments/assets/0d433cba-0fab-40b8-85d7-591d209a3c95" />
 
+и создать свой runner:
 
+<img width="1330" height="414" alt="Снимок экрана от 2026-03-13 17-20-47" src="https://github.com/user-attachments/assets/ac9b7c7d-4d3a-49c0-bfdf-680d1d92259f" />
+
+<img width="1602" height="418" alt="Снимок экрана от 2026-03-13 17-24-34" src="https://github.com/user-attachments/assets/563b5114-a438-4fdd-ac5b-c2e133b25a4f" />
+
+Изменим header и запушим в gitlab
+
+<img width="1041" height="597" alt="Снимок экрана от 2026-03-13 17-26-25" src="https://github.com/user-attachments/assets/b0d7a9b1-5504-43d8-9318-1ef0ad6f7d82" />
+
+<img width="1143" height="369" alt="Снимок экрана от 2026-03-13 17-25-30" src="https://github.com/user-attachments/assets/1c94cda1-0d05-4cd4-b681-a7c0cd658207" />
+
+<img width="1321" height="281" alt="Снимок экрана от 2026-03-13 17-26-41" src="https://github.com/user-attachments/assets/d48c2f68-8367-4549-b677-3800c155c36e" />
+
+<img width="821" height="478" alt="Снимок экрана от 2026-03-13 17-26-52" src="https://github.com/user-attachments/assets/2a4c6dce-0b34-4c89-8e6a-d7d2897569b8" />
+
+<img width="828" height="510" alt="Снимок экрана от 2026-03-13 17-27-40" src="https://github.com/user-attachments/assets/2cc8e092-8c49-4f45-9264-ccb59374111b" />
+
+<img width="828" height="510" alt="Снимок экрана от 2026-03-13 17-27-40" src="https://github.com/user-attachments/assets/eb727ac6-6ba2-46b2-98a7-57b2e14525d1" />
+
+<img width="2070" height="560" alt="Снимок экрана от 2026-03-13 17-28-15" src="https://github.com/user-attachments/assets/339f9d6a-3b7c-494d-ba59-3e3134504dee" />
+
+При этом docker образ сохраняется в container registry
+
+<img width="1233" height="410" alt="Снимок экрана от 2026-03-13 17-28-35" src="https://github.com/user-attachments/assets/9b19a408-d4f0-40eb-bb7f-283341ce035a" />
 
 
 
